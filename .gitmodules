@@ -16,3 +16,6 @@
 [submodule "BasicInitStatefulWidget"]
 	path = BasicInitStatefulWidget
 	url = https://github.com/TheNaFeR02/BasicInitStatefulWidget.git
+[submodule "StatefulWidget"]
+	path = StatefulWidget
+	url = https://github.com/TheNaFeR02/StatefulWidget.git
