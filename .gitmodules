@@ -1,3 +1,6 @@
 [submodule "Bin2DecDart"]
 	path = Bin2DecDart
 	url = https://github.com/TheNaFeR02/Bin2DecDart
+[submodule "UIBasicDart"]
+	path = UIBasicDart
+	url = https://github.com/TheNaFeR02/UIBasicDart.git
