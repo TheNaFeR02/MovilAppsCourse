@@ -4,3 +4,6 @@
 [submodule "UIBasicDart"]
 	path = UIBasicDart
 	url = https://github.com/TheNaFeR02/UIBasicDart.git
+[submodule "GetXControllerFlutter"]
+	path = GetXControllerFlutter
+	url = https://github.com/TheNaFeR02/GetXControllerFlutter.git
