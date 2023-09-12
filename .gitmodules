@@ -19,3 +19,6 @@
 [submodule "StatefulWidget"]
 	path = StatefulWidget
 	url = https://github.com/TheNaFeR02/StatefulWidget.git
+[submodule "WidgetAndIntegrationTests"]
+	path = WidgetAndIntegrationTests
+	url = https://github.com/TheNaFeR02/WidgetAndIntegrationTests.git
