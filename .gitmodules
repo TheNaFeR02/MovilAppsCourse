@@ -10,3 +10,6 @@
 [submodule "NavigationFlutter"]
 	path = NavigationFlutter
 	url = https://github.com/TheNaFeR02/NavigationFlutter.git
+[submodule "StatelessWidget"]
+	path = StatelessWidget
+	url = https://github.com/TheNaFeR02/StatelessWidget.git
