@@ -7,3 +7,6 @@
 [submodule "GetXControllerFlutter"]
 	path = GetXControllerFlutter
 	url = https://github.com/TheNaFeR02/GetXControllerFlutter.git
+[submodule "NavigationFlutter"]
+	path = NavigationFlutter
+	url = https://github.com/TheNaFeR02/NavigationFlutter.git
