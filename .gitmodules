@@ -13,3 +13,6 @@
 [submodule "StatelessWidget"]
 	path = StatelessWidget
 	url = https://github.com/TheNaFeR02/StatelessWidget.git
+[submodule "BasicInitStatefulWidget"]
+	path = BasicInitStatefulWidget
+	url = https://github.com/TheNaFeR02/BasicInitStatefulWidget.git
